@@ -24,7 +24,6 @@ Tkinter: [https://docs.python.org/3/library/tkinter.html](https://docs.python.or
 
 ## Team
 
-> Or Contributors/People
 
 | <a href="https://github.com/shannaurelle" target="_blank">**Shann Aurelle Ripalda**</a> | <a href="https://twitter.com/_michiieee" target="_blank">**Michelle Healmer Castro**</a> 
 | :---: |:---:| 
