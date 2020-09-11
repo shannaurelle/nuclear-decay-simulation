@@ -28,7 +28,7 @@ Tkinter: [https://docs.python.org/3/library/tkinter.html](https://docs.python.or
 
 | <a href="https://github.com/shannaurelle" target="_blank">**Shann Aurelle Ripalda**</a> | <a href="https://twitter.com/_michiieee" target="_blank">**Michelle Healmer Castro**</a> 
 | :---: |:---:| 
-| [![ShannAurelleRipalda](https://avatars0.githubusercontent.com/u/33728609?v=4&s=73)](https://avatars0.githubusercontent.com/u/33728609?v=4)    | [![MichelleHealmerCastro](https://twitter.com/_michiieee/profile_image/size=bigger)](https://twitter.com/_michiieee/profile_image/size=bigger) | 
+| [![ShannAurelleRipalda](https://avatars0.githubusercontent.com/u/33728609?v=4&s=73)](https://avatars0.githubusercontent.com/u/33728609?v=4)    | [![MichelleHealmerCastro](https://twitter.com/_michiieee/photo?size=bigger)](https://twitter.com/_michiieee/photo?size=bigger) | 
 | <a href="https://github.com/shannaurelle" target="_blank">`github.com/shannaurelle`</a> | <a href="https://twitter.com/_michiieee" target="_blank">`https://twitter.com/_michiieee`</a> |
 
 
