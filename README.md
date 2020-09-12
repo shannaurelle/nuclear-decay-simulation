@@ -37,7 +37,7 @@ Tkinter: [https://docs.python.org/3/library/tkinter.html](https://docs.python.or
 
 | <a href="https://github.com/shannaurelle" target="_blank">**Shann Aurelle Ripalda**</a> | <a href="https://twitter.com/_michiieee" target="_blank">**Michelle Healmer Castro**</a> | <a href="https://www.facebook.com/infiltrative/" target="_blank">**Natalie Shayne Macababbad**</a> |
 | :---: | :---: | :---: | 
-| [<img src="https://unavatar.now.sh/twitter/ShannAurelle" width="200" height="200">](https://github.com/shannaurelle)| [ <img src="https://unavatar.now.sh/twitter/_michiieee" width="200" height="200">](https://twitter.com/_michiieee) | [ <img src="https://unavatar.now.sh/facebook/infiltrative" width="200" height="200">](https://www.facebook.com/infiltrative/) | 
+| [<img src="https://unavatar.now.sh/twitter/ShannAurelle" width="200" height="200">](https://github.com/shannaurelle)| [ <img src="https://unavatar.now.sh/twitter/_michiieee" width="200" height="200">](https://twitter.com/_michiieee) | [ <img src="https://unavatar.now.sh/facebook/infiltrative/" width="200" height="200">](https://www.facebook.com/infiltrative/) | 
 | <a href="https://github.com/shannaurelle" target="_blank">`github.com/shannaurelle`</a> | <a href="twitter.com/_michiieee" target="_blank">`https://twitter.com/_michiieee`</a> | <a href="https://www.facebook.com/infiltrative/" target="_blank">`https://www.facebook.com/infiltrative/`</a> |
 
 
