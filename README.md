@@ -9,6 +9,17 @@ This requires Python 3.x, Pygame and Tkinter
 
 
 
+## How To Use
+
+
+1. Install Python 3
+
+2. Install Pygame 
+
+3. Open MainSimulation.py to run the program
+
+
+
 
 ## Download pages / Guides for Installation
 
