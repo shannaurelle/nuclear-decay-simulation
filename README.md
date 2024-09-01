@@ -46,7 +46,7 @@ Tkinter: [https://docs.python.org/3/library/tkinter.html](https://docs.python.or
 
 | <a href="https://github.com/shannaurelle" target="_blank">**Shann Aurelle Ripalda**</a> | <a href="https://twitter.com/_michiieee" target="_blank">**Michelle Healmer Castro**</a> | <a href="https://www.facebook.com/natalie.macababbad/" target="_blank">**Natalie Shayne Macababbad**</a> |
 | :---: | :---: | :---: | 
-| <a href="https://github.com/shannaurelle" target="_blank">`github.com/shannaurelle`</a> | <a href="twitter.com/_michiieee" target="_blank">`https://twitter.com/_michiieee`</a> | <a href="https://www.facebook.com/natalie.macababbad/" target="_blank">`https://www.facebook.com/infiltrative/`</a> |
+| <a href="https://github.com/shannaurelle" target="_blank">`github.com/shannaurelle`</a> | <a href="twitter.com/_michiieee" target="_blank">`https://twitter.com/_michiieee`</a> | <a href="https://www.facebook.com/natalie.macababbad/" target="_blank">`https://www.facebook.com/natalie.macababbad/`</a> |
 
 
 
